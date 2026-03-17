@@ -19,6 +19,10 @@ Close the browser window and press enter on the console to save changes
 
 Run start.bat again, type n then enter, chopse how many faucets you wish to collect at once (default is 19)
 
+# Download
+
+https://drive.google.com/file/d/1rUIOpWqaL7Ah0tlbt-lS2rd1_NSknqZz/view?usp=drivesdk
+
 # Video tutorial
 
 https://youtu.be/DlFYP1oaIO8?si=i2NBrMFvP-YiE3dU
