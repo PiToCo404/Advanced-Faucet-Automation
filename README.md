@@ -39,4 +39,4 @@ Recommended proxy: https://proxy-cheap.com
 
 # DISCLAIMER 
 
-This program was made with educational purposes o only, use at your own will. I'm not responsible for misuse of this tool
+This program was made for educational purposes o only, use at educational own will. I'm not responsible for misuse of this tool
