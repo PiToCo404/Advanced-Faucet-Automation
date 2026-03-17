@@ -19,6 +19,10 @@ Close the browser window and press enter on the console to save changes
 
 Run start.bat again, type n then enter, chopse how many faucets you wish to collect at once (default is 19)
 
+# Video tutorial
+
+https://youtu.be/DlFYP1oaIO8?si=i2NBrMFvP-YiE3dU
+
 # How it works
 
 When running the script a chrome window will open every 30 seconds with a faucet and the claim will happen as long as you set your email correctly inside the userscript on violentmonkey
