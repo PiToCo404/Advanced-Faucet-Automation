@@ -17,7 +17,7 @@ Open violentmonkey options, import the file scripts.zip, edit the BeeFaucet and 
 Click Rektcaptcha extension icon and enable auto open and auto solve
 Close the browser window and press enter on the console to save changes
 
-Run start.bat again, type n then enter, chopse how many faucets you wish to collect at once (default is 19)
+Run start.bat again, type n then enter, choose how many faucets you wish to collect at once (default is 19)
 
 # Download
 
