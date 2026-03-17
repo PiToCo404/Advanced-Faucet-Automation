@@ -21,7 +21,7 @@ Run start.bat again, type n then enter, chopse how many faucets you wish to coll
 
 # Download
 
-https://drive.google.com/file/d/1rUIOpWqaL7Ah0tlbt-lS2rd1_NSknqZz/view?usp=drivesdk
+https://drive.google.com/file/d/1-RoJdEn_ihtamEscID1pnbP_5POyAe2O/view?usp=drivesdk
 
 # Video tutorial
 
